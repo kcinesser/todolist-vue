@@ -1,5 +1,7 @@
 # todolist
 
+Simple todo list to learn the basics of Vue.
+
 ## Project setup
 ```
 npm install
